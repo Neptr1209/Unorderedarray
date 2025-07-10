@@ -21,7 +21,11 @@ Password Criteria:
 4. details() - Method to display detail of the user
 This method is to display the detail of the user (Username, Password, and Password Strength)
 
+
 This code will be available on Github: 
+This code will be available on Github: https://github.com/MJeat/PasswordStrengthChecking.git
+
+
  */
 
 
